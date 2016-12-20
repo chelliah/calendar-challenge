@@ -1,0 +1,18 @@
+.calendar {
+  background: #eeeeee;
+  // color: red;
+
+  width: 620px;
+  padding: 0 10px;
+  box-sizing: border-box;
+  height: 720px;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+}
+
+.event {
+  margin: 0;
+  position: absolute;
+  box-sizing: border-box;
+}

@@ -1,0 +1,18 @@
+.sidebar {
+  width: 100px;
+  margin: 0;
+}
+
+.hours {
+  list-style: none;
+  margin: 0;
+  height: 720px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hour {
+  border-top: 1px solid #999999;
+  color: #999999;
+  height: 60px;
+}
