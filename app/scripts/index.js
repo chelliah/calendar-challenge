@@ -5,7 +5,6 @@ import App from './components/App'
 require('../styles/main.scss');
 
 render(
-    // <div>hi</div>
     <App />,
     document.getElementById('root')
 );

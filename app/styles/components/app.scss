@@ -2,10 +2,10 @@
 @import './sidebar';
 
 .app {
-  width: 720px;
   height: 720px;
   position: relative;
   display: flex;
-  margin: 0 auto;
+  justify-content: center;
+  margin: 20px auto;
   font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
